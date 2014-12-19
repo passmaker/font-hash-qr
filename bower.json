@@ -1,0 +1,20 @@
+{
+  "name": "font-hash-qr",
+  "version": "0.1.0",
+  "homepage": "https://github.com/passmaker/font-hash-qr",
+  "authors": [
+    "kops"
+  ],
+  "description": "A font made of QR styled icons",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "font-hash-qr",
+    "web-font"
+  ],
+  "license": "LGPLv3",
+  "ignore": [
+    "bin/.*"
+  ]
+}
