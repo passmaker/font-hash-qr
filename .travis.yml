@@ -1,0 +1,7 @@
+language: ruby
+
+before_install: ./bin/install-fontcustom.sh
+
+install:
+- ./bin/generate-svg-icons.sh
+- fontcustom compile -c font-hash-qr.yml
